@@ -1,0 +1,5 @@
+step-oc
+
+deployment.apps/lab-app created
+service/lab-app exposed
+SERVICERUNNING
